@@ -31,6 +31,9 @@ navigation:
   - name: Allen Cap's Blog
     url: 'http://www.vegaspersonalinjurylawblog.com/blog'
     type: external
+  - name: Donald Kudler's Blog
+    url: 'http://www.vegaslitigator.com/blog'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/758f681d-2645-4606-9c37-17ae8027fff9.gif
 title: ''
