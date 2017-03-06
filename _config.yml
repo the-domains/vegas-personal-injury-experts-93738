@@ -1,9 +1,10 @@
-typography_spectrum: 0.6944607530546254
+layout_spectrum: 0.4645813239193383
+typography_spectrum: 0.7468841131132022
 color:
-  brandStrength: 0.25685156560226313
-  lightness: 0.8547574466011385
-  saturation: 0.6367150143509971
-  rhythmicContrast: 0.24072281238954918
+  brandStrength: 0.13000073502559473
+  lightness: 0.13450360051144172
+  saturation: 0.9678948012271914
+  rhythmicContrast: 0.728101184541212
   brandColors:
     - '#2E0927'
     - '#D90000'
@@ -11,7 +12,6 @@ color:
     - '#FF8C00'
     - '#04756F'
 github: true
-layout_spectrum: 0.3075708766223512
 author:
   name: Cap & Kudler
   email: info@capandkudler.com
