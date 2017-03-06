@@ -56,6 +56,9 @@ purpose:
   - type: contact
     url: 'tel:7028788778'
     label: Call Now
+  - type: contact
+    url: 'mailto:management@capandkudler.com'
+    label: Contact Us
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0694d57d-7317-4bae-a286-abc7909b9fe5.png
 favicon: >-
