@@ -1,3 +1,16 @@
+layout_spectrum: 0.3075708766223512
+typography_spectrum: 0.6944607530546254
+color:
+  brandStrength: 0.25685156560226313
+  lightness: 0.8547574466011385
+  saturation: 0.6367150143509971
+  rhythmicContrast: 0.24072281238954918
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Vegas Personal Injury Experts
-layout_spectrum: 0.9602415701374412
-typography_spectrum: 0.30031093303114176
-color:
-  brandStrength: 0.8215192889329046
-  lightness: 0.05115951644256711
-  saturation: 0.41473590093664825
-  rhythmicContrast: 0.6660536739509553
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
